@@ -1,0 +1,3 @@
+condicion_funcionamiento.xlsx
+Datos_engranajes.xlsx
+roda.ico
